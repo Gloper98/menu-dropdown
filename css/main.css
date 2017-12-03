@@ -61,3 +61,11 @@ hr {
 	background-color: grey;
 	opacity: 0.6;
 }
+.photo-port, .photo {
+	width: 100%;
+	height: auto;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
